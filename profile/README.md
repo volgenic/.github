@@ -1,8 +1,8 @@
 # Volgenic
 
-**A lead for your coding agents.**
+**Ship like a whole team, with AI coding agents doing the work.**
 
-Agents can be multiplied. You can't. Volgenic runs your crew of coding agents and brings you only the decisions that are yours.
+Hand over your backlog. A crew of coding agents builds, reviews and ships it in parallel while you get on with your day. You step in only when a call is truly yours.
 
 [volgenic.com](https://volgenic.com)
 
